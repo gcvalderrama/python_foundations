@@ -1,11 +1,14 @@
 
 def test_20(data):
     result = []
+    state = []
     for i in data:
-        for j in data:
-            if i * j == 20:
-                result.append((i, j))
-                return result
+        if 20 % i == 0:
+            res = 20 / i
+            if res in state:
+                return [int(res), i]
+            else:
+                state.append(i)
     return result
 
 # is possible to have negative numbers
