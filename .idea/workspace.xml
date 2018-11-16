@@ -5,31 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/amazon/AddTwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/CombinationSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/IntegertoEnglishWords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEqualsk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/MaximumSubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/MergekSortedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/AVeryBigSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/ArraysDS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/DiagonalDifferences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/MigrationBirds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/MinimumDistances.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/birds.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/findind_running_media_heaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/hourglasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/left_rotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_foundations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_foundations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/BestTimetoBuyandSellStock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/MatrixInSpiralForm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/WordLadderII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/SortAlgorithms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersices/BinarySearchTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/finding_running_media_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersices/finding_running_media_tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,27 +28,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="38" />
+          <entry key="py" value="42" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="38" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="14427" />
+          <entry key="py" value="15870" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="14427" />
+          <entry key="Python" value="15870" />
         </counts>
       </usages-collector>
     </session>
@@ -105,41 +85,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/Palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1542256396517" expanded="true" signature="207:212" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="29" selection-start-line="29" selection-end-line="34" selection-end-column="39" />
-              <folding>
-                <marker date="1542258668527" expanded="true" signature="28:541" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/IntegertoEnglishWords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="40" selection-start-line="40" selection-end-line="41" selection-end-column="31" />
-              <folding>
-                <marker date="1542269586402" expanded="true" signature="987:989" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amazon/AddTwoNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -192,20 +137,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/amazon/MaximumSubarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py">
+        <entry file="file://$PROJECT_DIR$/amazon/BestTimetoBuyandSellStock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="25" selection-start-line="25" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="300">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exersices/SortAlgorithms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+              <folding>
+                <marker date="1542354804505" expanded="true" signature="23:2828" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon/WordLadderII.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/amazon/MatrixInSpiralForm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <marker date="1542378108251" expanded="true" signature="494:495" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -275,6 +253,10 @@
         <option value="$PROJECT_DIR$/amazon/CombinationSum.py" />
         <option value="$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py" />
         <option value="$PROJECT_DIR$/amazon/MaximumSubarray.py" />
+        <option value="$PROJECT_DIR$/amazon/BestTimetoBuyandSellStock.py" />
+        <option value="$PROJECT_DIR$/exersices/SortAlgorithms.py" />
+        <option value="$PROJECT_DIR$/amazon/WordLadderII.py" />
+        <option value="$PROJECT_DIR$/amazon/MatrixInSpiralForm.py" />
       </list>
     </option>
   </component>
@@ -328,8 +310,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaximumSubarray">
-    <configuration name="AddTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MatrixInSpiralForm">
+    <configuration name="BestTimetoBuyandSellStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,28 +323,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/AddTwoNumbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CombinationSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/CombinationSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/BestTimetoBuyandSellStock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -392,6 +353,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="MatrixInSpiralForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/MatrixInSpiralForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MaximumSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -413,7 +395,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ValidateBinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SortAlgorithms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -421,11 +403,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exersices/SortAlgorithms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -435,19 +417,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.AddTwoNumbers" />
-      <item itemvalue="Python.ValidateBinarySearchTree" />
-      <item itemvalue="Python.CombinationSum" />
       <item itemvalue="Python.LetterCombinationsofaPhoneNumber" />
       <item itemvalue="Python.MaximumSubarray" />
+      <item itemvalue="Python.BestTimetoBuyandSellStock" />
+      <item itemvalue="Python.SortAlgorithms" />
+      <item itemvalue="Python.MatrixInSpiralForm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MatrixInSpiralForm" />
+        <item itemvalue="Python.SortAlgorithms" />
+        <item itemvalue="Python.BestTimetoBuyandSellStock" />
         <item itemvalue="Python.MaximumSubarray" />
         <item itemvalue="Python.LetterCombinationsofaPhoneNumber" />
-        <item itemvalue="Python.CombinationSum" />
-        <item itemvalue="Python.ValidateBinarySearchTree" />
-        <item itemvalue="Python.AddTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -466,14 +448,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18387777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37744033" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46854663" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -647,6 +630,16 @@
           <line>1</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/BestTimetoBuyandSellStock.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/SortAlgorithms.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -717,22 +710,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/find_k_in_string.py" />
-    <entry file="file://$PROJECT_DIR$/depth_first_tree.py" />
-    <entry file="file://$PROJECT_DIR$/how_many_xs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic_programming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find-k-th-character-in-string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1110,8 +1087,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amazon/MaximumSubarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/BestTimetoBuyandSellStock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/SortAlgorithms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <marker date="1542354804505" expanded="true" signature="23:2828" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/WordLadderII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/MatrixInSpiralForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1542378108251" expanded="true" signature="494:495" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
