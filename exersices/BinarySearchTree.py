@@ -85,4 +85,4 @@ if __name__ == "__main__":
     print(is_bst(head3))  # should return True
     print(is_bst(head4))  # should return False
 
-    map
+

@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/amazon/IntegertoEnglishWords.py" line="41" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exersices/finding_media.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/finding_running_media.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersices/finding_running_media_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/AddTwoNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/CombinationSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/IntegertoEnglishWords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEqualsk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/MaximumSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/MergekSortedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/AVeryBigSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/ArraysDS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/DiagonalDifferences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/MigrationBirds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/MinimumDistances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/birds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/findind_running_media_heaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/hourglasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersices/left_rotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_foundations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_foundations.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exersices/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersices/BinarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/finding_running_media_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersices/finding_running_media_tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,22 +48,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="38" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="12" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6630" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="14427" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6630" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="14427" />
         </counts>
       </usages-collector>
     </session>
@@ -78,131 +106,106 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/NonRepeating.py">
+        <entry file="file://$PROJECT_DIR$/amazon/Palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state>
               <folding>
-                <marker date="1541517651892" expanded="true" signature="44:252" ph="..." />
+                <marker date="1542256396517" expanded="true" signature="207:212" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/OneWayStrings.py">
+        <entry file="file://$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            <state relative-caret-position="178">
+              <caret line="29" selection-start-line="29" selection-end-line="34" selection-end-column="39" />
               <folding>
-                <marker date="1541522379570" expanded="true" signature="79:783" ph="..." />
+                <marker date="1542258668527" expanded="true" signature="28:541" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/mine_sweeper.py">
+        <entry file="file://$PROJECT_DIR$/amazon/IntegertoEnglishWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+            <state relative-caret-position="274">
+              <caret line="40" selection-start-line="40" selection-end-line="41" selection-end-column="31" />
               <folding>
-                <marker date="1541606264838" expanded="true" signature="125:130" ph="..." />
-                <marker date="1541606264838" expanded="true" signature="125:759" ph="..." />
-                <marker date="1541606264838" expanded="true" signature="796:1479" ph="..." />
+                <marker date="1542269586402" expanded="true" signature="987:989" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/mine_sweeper_click.py">
+        <entry file="file://$PROJECT_DIR$/amazon/AddTwoNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="40" selection-start-line="40" selection-end-line="42" selection-end-column="16" />
+            <state relative-caret-position="341">
+              <caret line="59" column="57" lean-forward="true" selection-start-line="58" selection-end-line="59" selection-end-column="57" />
               <folding>
-                <marker date="1541608283365" expanded="true" signature="79:376" ph="..." />
-                <marker date="1541608283365" expanded="true" signature="1201:1265" ph="..." />
+                <marker date="1542277500695" expanded="true" signature="48:53" ph="..." />
+                <marker date="1542277500695" expanded="true" signature="150:1091" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/rotate_matrix.py">
+        <entry file="file://$PROJECT_DIR$/amazon/MergekSortedLists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="376">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1541620913198" expanded="true" signature="50:77" ph="..." />
-                <marker date="1541620913198" expanded="true" signature="292:924" ph="..." />
-                <marker date="1541620913198" expanded="true" signature="859:861" ph="..." />
+                <marker date="1542278604440" expanded="true" signature="1122:1492" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/nth_element.py">
+        <entry file="file://$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-              <folding>
-                <element signature="e#559#749#0" />
-                <marker date="1541625137369" expanded="true" signature="210:373" ph="..." />
-                <marker date="1541625137369" expanded="true" signature="519:520" ph="..." />
-                <marker date="1541625137369" expanded="true" signature="805:1002" ph="..." />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="28" lean-forward="true" selection-start-line="19" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/BinarySearchTree.py">
+        <entry file="file://$PROJECT_DIR$/amazon/CombinationSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
-              <folding>
-                <marker date="1541698178243" expanded="true" signature="24:1113" ph="..." />
-                <marker date="1541698178243" expanded="true" signature="298:701" ph="..." />
-              </folding>
+            <state relative-caret-position="477">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/finding_running_media.py">
+        <entry file="file://$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="88" selection-start-line="88" selection-end-line="94" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1541802653289" expanded="true" signature="2585:2761" ph="..." />
-              </folding>
+            <state>
+              <caret selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exersices/finding_running_media_tree.py">
+        <entry file="file://$PROJECT_DIR$/amazon/MaximumSubarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="517" column="44" lean-forward="true" selection-start-line="517" selection-start-column="44" selection-end-line="517" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#21#874#0" />
-                <marker date="1541803640191" expanded="true" signature="16676:17362" ph="..." />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exersices/finding_media.txt">
+        <entry file="file://$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="99999" column="5" lean-forward="true" selection-start-line="99999" selection-start-column="5" selection-end-line="99999" selection-end-column="5" />
+            <state relative-caret-position="33">
+              <caret line="25" selection-start-line="25" selection-end-line="32" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -219,6 +222,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>xrange</find>
+      <find>name</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -245,11 +249,32 @@
         <option value="$PROJECT_DIR$/exersices/mine_sweeper_click.py" />
         <option value="$PROJECT_DIR$/exersices/rotate_matrix.py" />
         <option value="$PROJECT_DIR$/exersices/nth_element.py" />
-        <option value="$PROJECT_DIR$/exersices/BinarySearchTree.py" />
         <option value="$PROJECT_DIR$/exersices/finding_media.txt.py" />
         <option value="$PROJECT_DIR$/exersices/finding_media.txt" />
         <option value="$PROJECT_DIR$/exersices/finding_running_media.py" />
         <option value="$PROJECT_DIR$/exersices/finding_running_media_tree.py" />
+        <option value="$PROJECT_DIR$/exersices/findind_running_media_heaps.py" />
+        <option value="$PROJECT_DIR$/exersices/BinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/exersices/hourglasses.py" />
+        <option value="$PROJECT_DIR$/exersices/ArraysDS.py" />
+        <option value="$PROJECT_DIR$/exersices/left_rotation.py" />
+        <option value="$PROJECT_DIR$/exersices/AVeryBigSum.py" />
+        <option value="$PROJECT_DIR$/exersices/DiagonalDifferences.py" />
+        <option value="$PROJECT_DIR$/exersices/MinimumDistances.py" />
+        <option value="$PROJECT_DIR$/exersices/birds.txt" />
+        <option value="$PROJECT_DIR$/exersices/MigrationBirds.py" />
+        <option value="$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEquals k.py" />
+        <option value="$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEqualsk.py" />
+        <option value="$PROJECT_DIR$/amazon/Palindrome.py" />
+        <option value="$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py" />
+        <option value="$PROJECT_DIR$/amazon/IntegertoEnglishWords.py" />
+        <option value="$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py" />
+        <option value="$PROJECT_DIR$/amazon/AddTwoNumbers.py" />
+        <option value="$PROJECT_DIR$/amazon/MergekSortedLists.py" />
+        <option value="$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/amazon/CombinationSum.py" />
+        <option value="$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py" />
+        <option value="$PROJECT_DIR$/amazon/MaximumSubarray.py" />
       </list>
     </option>
   </component>
@@ -270,6 +295,11 @@
             <path>
               <item name="python_foundations" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_foundations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_foundations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_foundations" type="462c0819:PsiDirectoryNode" />
+              <item name="amazon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_foundations" type="b2602c69:ProjectViewProjectNode" />
@@ -298,8 +328,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.finding_running_media_tree">
-    <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MaximumSubarray">
+    <configuration name="AddTwoNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exersices/BinarySearchTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/AddTwoNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding_running_media" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CombinationSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,11 +358,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exersices/finding_running_media.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/CombinationSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding_running_media_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LetterCombinationsofaPhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exersices/finding_running_media_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,7 +392,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nth_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MaximumSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -370,11 +400,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exersices/nth_element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/MaximumSubarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -383,7 +413,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rotate_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ValidateBinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -391,11 +421,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exersices/rotate_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,19 +435,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.rotate_matrix" />
-      <item itemvalue="Python.nth_element" />
-      <item itemvalue="Python.BinarySearchTree" />
-      <item itemvalue="Python.finding_running_media" />
-      <item itemvalue="Python.finding_running_media_tree" />
+      <item itemvalue="Python.AddTwoNumbers" />
+      <item itemvalue="Python.ValidateBinarySearchTree" />
+      <item itemvalue="Python.CombinationSum" />
+      <item itemvalue="Python.LetterCombinationsofaPhoneNumber" />
+      <item itemvalue="Python.MaximumSubarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.finding_running_media_tree" />
-        <item itemvalue="Python.finding_running_media" />
-        <item itemvalue="Python.BinarySearchTree" />
-        <item itemvalue="Python.nth_element" />
-        <item itemvalue="Python.rotate_matrix" />
+        <item itemvalue="Python.MaximumSubarray" />
+        <item itemvalue="Python.LetterCombinationsofaPhoneNumber" />
+        <item itemvalue="Python.CombinationSum" />
+        <item itemvalue="Python.ValidateBinarySearchTree" />
+        <item itemvalue="Python.AddTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +466,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18387777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -444,7 +473,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.25813448" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37744033" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -500,24 +529,154 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exersices/finding_running_media_tree.py</url>
-          <line>178</line>
+          <line>176</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exersices/finding_running_media_tree.py</url>
-          <line>507</line>
-          <option name="timeStamp" value="53" />
+          <url>file://$PROJECT_DIR$/exersices/findind_running_media_heaps.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/findind_running_media_heaps.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/ArraysDS.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/left_rotation.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/AVeryBigSum.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/AVeryBigSum.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/DiagonalDifferences.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/MinimumDistances.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/MigrationBirds.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exersices/MigrationBirds.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEqualsk.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEqualsk.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/Palindrome.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/IntegertoEnglishWords.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/AddTwoNumbers.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/AddTwoNumbers.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/CombinationSum.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/amazon/MaximumSubarray.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="target.position" />
+        <watch expression="resList" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>idx_tmp==0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number == 5</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number == 4</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number ==4</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>root.previous_node is None</expression-string>
         <language-id>Python</language-id>
@@ -540,6 +699,18 @@
       </expression>
       <expression>
         <expression-string>pos_target == 15</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s[idx: len(s)]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s[idx: len(s)-idx]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -573,6 +744,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2839">
           <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <marker date="1539082204085" expanded="true" signature="36:37" ph="..." />
+            <marker date="1539082204085" expanded="true" signature="66:556" ph="..." />
+            <marker date="1539082204085" expanded="true" signature="584:937" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -585,8 +761,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/merge_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="459">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <marker date="1541299353680" expanded="true" signature="376:885" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -594,9 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <marker date="1541449219437" expanded="true" signature="30:79" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,18 +785,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itertools_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="357">
           <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exersices/2numbers20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <marker date="1541515466856" expanded="true" signature="19:332" ph="..." />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -633,8 +809,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exersices/MostFrequentlyOccurringItemArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -645,39 +821,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exersices/CommonElementsTwoArrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1402888915/itertools.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1402888915/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/exersices/isRotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exersices/NonRepeating.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <marker date="1541517651892" expanded="true" signature="44:252" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exersices/OneWayStrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
-          <folding>
-            <marker date="1541522379570" expanded="true" signature="79:783" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,11 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
-          <folding>
-            <marker date="1541606264838" expanded="true" signature="125:130" ph="..." />
-            <marker date="1541606264838" expanded="true" signature="125:759" ph="..." />
-            <marker date="1541606264838" expanded="true" signature="796:1479" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,10 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="40" selection-start-line="40" selection-end-line="42" selection-end-column="16" />
-          <folding>
-            <marker date="1541608283365" expanded="true" signature="79:376" ph="..." />
-            <marker date="1541608283365" expanded="true" signature="1201:1265" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,9 +849,6 @@
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1541620913198" expanded="true" signature="50:77" ph="..." />
-            <marker date="1541620913198" expanded="true" signature="292:924" ph="..." />
-            <marker date="1541620913198" expanded="true" signature="859:861" ph="..." />
           </folding>
         </state>
       </provider>
@@ -723,28 +859,7 @@
           <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
           <folding>
             <element signature="e#559#749#0" />
-            <marker date="1541625137369" expanded="true" signature="210:373" ph="..." />
-            <marker date="1541625137369" expanded="true" signature="519:520" ph="..." />
-            <marker date="1541625137369" expanded="true" signature="805:1002" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exersices/BinarySearchTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
-          <folding>
-            <marker date="1541698178243" expanded="true" signature="24:1113" ph="..." />
-            <marker date="1541698178243" expanded="true" signature="298:701" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exersices/finding_media.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="99999" column="5" lean-forward="true" selection-start-line="99999" selection-start-column="5" selection-end-line="99999" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -754,20 +869,249 @@
           <caret line="88" selection-start-line="88" selection-end-line="94" selection-end-column="29" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1541802653289" expanded="true" signature="2585:2761" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/finding_media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="99999" column="5" lean-forward="true" selection-start-line="99999" selection-start-column="5" selection-end-line="99999" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exersices/finding_running_media_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="517" column="44" lean-forward="true" selection-start-line="517" selection-start-column="44" selection-end-line="517" selection-end-column="44" />
+        <state relative-caret-position="44">
+          <caret line="551" selection-start-line="551" selection-end-line="562" selection-end-column="19" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#21#874#0" />
-            <marker date="1541803640191" expanded="true" signature="16676:17362" ph="..." />
+            <marker date="1541907885742" expanded="true" signature="16383:16384" ph="..." />
+            <marker date="1541907885742" expanded="true" signature="16407:16412" ph="..." />
+            <marker date="1541907885742" expanded="true" signature="16407:16677" ph="..." />
+            <marker date="1541907885742" expanded="true" signature="16698:17183" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python36-32/Lib/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1120">
+          <caret line="134" column="4" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/CommonElementsTwoArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <marker date="1541522122787" expanded="true" signature="74:536" ph="..." />
+            <marker date="1541522122787" expanded="true" signature="571:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/findind_running_media_heaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1541916552406" expanded="true" signature="166:1075" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/BinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="45" selection-start-line="45" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/hourglasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/OneWayStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/ArraysDS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/isRotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1541899603012" expanded="true" signature="37:413" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/left_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/AVeryBigSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/DiagonalDifferences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <marker date="1542006090473" expanded="true" signature="75:191" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/MinimumDistances.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/birds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="249983" lean-forward="true" selection-start-column="249983" selection-end-column="249983" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exersices/MigrationBirds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1402888915/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="4792" column="27" lean-forward="true" selection-start-line="4792" selection-start-column="27" selection-end-line="4792" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/MaximumSizeSubarraySumEqualsk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/ProductOfArrayExceptSelf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="29" selection-start-line="29" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <marker date="1542258668527" expanded="true" signature="28:541" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/IntegertoEnglishWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="40" selection-start-line="40" selection-end-line="41" selection-end-column="31" />
+          <folding>
+            <marker date="1542269586402" expanded="true" signature="987:989" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542256396517" expanded="true" signature="207:212" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/IntersectionofTwoLinkedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="25" selection-start-line="25" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/AddTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="59" column="57" lean-forward="true" selection-start-line="58" selection-end-line="59" selection-end-column="57" />
+          <folding>
+            <marker date="1542277500695" expanded="true" signature="48:53" ph="..." />
+            <marker date="1542277500695" expanded="true" signature="150:1091" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/MergekSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <marker date="1542278604440" expanded="true" signature="1122:1492" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/ValidateBinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" lean-forward="true" selection-start-line="19" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/CombinationSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/LetterCombinationsofaPhoneNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/MaximumSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

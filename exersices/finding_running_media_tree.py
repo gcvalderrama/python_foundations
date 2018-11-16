@@ -1,39 +1,37 @@
 import random
 import math
+from collections import deque
+
 
 class NodeKey():
-    def __init__(self, value, name=None):
-        self.name = name
+    def __init__(self, value):
         self.value = value
 
     def __lt__(self, other):
-        return self.value < other.value or (self.value == other.value and self.name < other.name)
+        return self.value < other.value or (self.value == other.value)
 
     def __le__(self, other):
         return self < other or self == other
 
     def __eq__(self, other):
-        return self.value == other.value and self.name == other.name
+        return self.value == other.value
 
     def __ne__(self, other):
-        return self.value != other.value or self.name != other.name
+        return self.value != other.value
 
     def __gt__(self, other):
-        return self.value > other.value or (self.value == other.value and self.name > other.name)
+        return self.value > other.value or (self.value == other.value )
 
     def __ge__(self, other):
         return self > other or self == other
 
     def __str__(self):
-        if self.name is None:
-            return str(self.value)
-        else:
-            return str(self.value) + "," + str(self.name)
+        return str(self.value)
 
 
-class Node():
-    def __init__(self, value, name=None):
-        self.key = NodeKey(value, name)
+class Node:
+    def __init__(self, value):
+        self.key = NodeKey(value)
         self.value = value
         self.parent = None
         self.left_child = None
@@ -259,15 +257,15 @@ class BinaryTree():
         if self.root is not None:
             self.root.balance(self)
 
-    def insert(self, value, name=None):
+    def insert(self, value):
         if self.root is None:
             # If nothing in tree
-            self.root = Node(value, name)
+            self.root = Node(value)
         else:
-            if self.find(value, name) is None:
+            if self.find(value) is None:
                 # If key/name pair doesn't exist in tree
                 self.element_count += 1
-                self.add_as_child(self.root, Node(value, name))
+                self.add_as_child(self.root, Node(value))
 
     def add_as_child(self, parent_node, child_node):
         if child_node.key < parent_node.key:
@@ -298,10 +296,7 @@ class BinaryTree():
         while node.left_child:
             node = node.left_child
         while node:
-            if node.key.name is not None:
-                retlst.append([node.key.value, node.key.name])
-            else:
-                retlst.append(node.key.value)
+            retlst.append(node.key.value)
             if node.right_child:
                 node = node.right_child
                 while node.left_child:
@@ -315,10 +310,7 @@ class BinaryTree():
     def preorder(self, node, retlst=None):
         if retlst is None:
             retlst = []
-        if node.key.name is not None:
-            retlst.append([node.key.value, node.key.name])
-        else:
-            retlst.append(node.key.value)
+        retlst.append(node.key.value)
         if node.left_child:
             retlst = self.preorder(node.left_child, retlst)
         if node.right_child:
@@ -330,10 +322,7 @@ class BinaryTree():
             retlst = []
         if node.left_child:
             retlst = self.inorder(node.left_child, retlst)
-        if node.key.name is not None:
-            retlst.append([node.key.value, node.key.name])
-        else:
-            retlst.append(node.key.value)
+        retlst.append(node.key.value)
         if node.right_child:
             retlst = self.inorder(node.right_child, retlst)
         return retlst
@@ -345,10 +334,7 @@ class BinaryTree():
             retlst = self.postorder(node.left_child, retlst)
         if node.right_child:
             retlst = self.postorder(node.right_child, retlst)
-        if node.key.name is not None:
-            retlst.append([node.key.value, node.key.name])
-        else:
-            retlst.append(node.key.value)
+        retlst.append(node.key.value)
         return retlst
 
     def as_list(self, pre_in_post):
@@ -363,8 +349,8 @@ class BinaryTree():
         elif pre_in_post == 3:
             return self.inorder_non_recursive()
 
-    def find(self, value, name=None):
-        return self.find_in_subtree(self.root, NodeKey(value, name))
+    def find(self, value):
+        return self.find_in_subtree(self.root, NodeKey(value))
 
     def find_in_subtree(self, node, node_key):
         if node is None:
@@ -504,25 +490,61 @@ class BinaryTree():
             return start_node.out()
 
 
+def navigate_branch(node, target):
+    stack = deque()
+    result = [None, None]
+
+    if target == 1:
+        return [node, node]
+
+    while stack or node:
+        if node:
+            stack.append(node)
+            node = node.left_child
+        else:
+            node = stack.pop()
+            result[0] = result[1]
+            result[1] = node
+            target = target - 1
+            if not target:
+                break
+            node = node.right_child
+
+    return result
+
+
+def count_branch(node):
+    q = deque()
+    q.append(node)
+    count = 0
+    while q:
+        target = q.pop()
+        count += 1
+        if target.left_child:
+            q.append(target.left_child)
+        elif target.right_child:
+            q.append(target.right_child)
+    return count
+
+
 def runningMedian(a):
     tree = BinaryTree()
-    number = 1
+    number = 2
     result = list()
-    for c in a:
+
+    result.append(a[0])
+    tree.insert(a[0])
+
+    for c in a[1:]:
         tree.insert(c)
+        position = (number // 2) + 1
+
         if number % 2 == 0:
-            target = None
-            if tree.root.left_child is None:
-                target = tree.root.right_child
-            elif tree.root.right_child is None:
-                target = tree.root.left_child
-            elif tree.root.left_child.height < tree.root.right_child.height:
-                target = tree.root.left_child
-            else:
-                target = tree.root.right_child
-            result.append((tree.root.value + target.value)/2)
+            pair = navigate_branch(tree.root, position)
+            result.append((pair[0].value + pair[1].value)/2)
         else:
-            result.append(tree.root.value)
+            pair = navigate_branch(tree.root, position)
+            result.append(pair[1].value)
         number += 1
 
     return result
@@ -533,7 +555,12 @@ def dowork():
         lines = f.readlines()
         for l in lines:
             inp.append(int(l))
+    inp = [1,2,3,4,5,6,7,8,9,10]
     return runningMedian(inp)
+
+
 if __name__ == "__main__":
-    dowork()
+    print(dowork())
+    # 1.0,1.5,2.0,2.5,3.0,3.5,4.0,4.5,5.0,5.5
+
 
