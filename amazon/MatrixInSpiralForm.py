@@ -6,10 +6,8 @@ def dowork(matrix):
     bottom = len(matrix)
     left = 0
     right = len(matrix[0])
-
     result = []
     while left < right and top < bottom:
-
         for i in range(left, right, 1):
             result.append(matrix[top][i])
         top += 1
@@ -28,7 +26,6 @@ def dowork(matrix):
         for i in range(bottom-1, top-1, -1):
             result.append(matrix[i][left])
         left += 1
-
     return result
 
 
