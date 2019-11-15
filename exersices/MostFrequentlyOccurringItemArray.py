@@ -1,4 +1,5 @@
 from collections import Counter
+import unittest
 
 
 def most_frequent(data):
@@ -20,23 +21,28 @@ def most_frequent(data):
     return max_number
 
 
+class Test(unittest.TestCase):
+
+    def test_case_a(self):
+        list_input = [1, 3, 1, 3, 2, 1]
+        result = most_frequent(list_input)
+        self.assertEqual(1, result)
+
+    def test_case_b(self):
+        list_input = [3, 3, 1, 3, 2, 1]
+        result = most_frequent(list_input)
+        self.assertEqual(3, result)
+
+    def test_case_c(self):
+        list_input = [0, -1, 10, 10, -1, 10, -1, -1, -1, 1]
+        result = most_frequent(list_input)
+        self.assertEqual(-1, result)
+
+    def test_case_d(self):
+        list_input = []
+        result = most_frequent(list_input)
+        self.assertEqual(None, result)
+
+
 if __name__ == "__main__":
-    data = [1, 3, 1, 3, 2, 1, 3, 3]
-    print(most_frequent(data))
-
-    # most_frequent(list1) should return 1
-    list1 = [1, 3, 1, 3, 2, 1]
-    print(most_frequent(list1))
-    # most_frequent(list2) should return 3
-    list2 = [3, 3, 1, 3, 2, 1]
-    print(most_frequent(list2))
-    # most_frequent(list3) should return None
-    list3 = []
-    print(most_frequent(list3))
-    # most_frequent(list4) should return 0
-    list4 = [0]
-    print(most_frequent(list4))
-    # most_frequent(list5) should return -1
-    list5 = [0, -1, 10, 10, -1, 10, -1, -1, -1, 1]
-    print(most_frequent(list5))
-
+    unittest.main()

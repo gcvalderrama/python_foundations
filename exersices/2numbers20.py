@@ -11,6 +11,7 @@ def test_20(data):
                 state.append(i)
     return result
 
+# Clarifying Questions
 # is possible to have negative numbers
 # does the array contain any duplicate
 if __name__ == "__main__":
