@@ -1,3 +1,4 @@
+#  https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/
 def merge_sort(unsorted_list):
     if len(unsorted_list) <= 1:
         return unsorted_list
