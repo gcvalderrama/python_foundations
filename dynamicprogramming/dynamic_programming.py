@@ -1,14 +1,21 @@
 from collections import defaultdict
 
+
 def fibonacci_recursive(n):
-    if n <= 2:
+    if n <= 0:
+        return 0
+    if n == 1:
         return 1
     else:
         return fibonacci_recursive(n-1) + fibonacci_recursive(n-2)
 
+
 def dyna_fibonacci(n, state):
-    if n <= 2:
+    if n <= 0:
+        state[0] = 0
+    if n == 1:
         state[n] = 1
+
     if state[n] is None:
         state[n] = dyna_fibonacci(n-1, state) + dyna_fibonacci(n-2, state)
     return state[n]

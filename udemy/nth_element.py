@@ -7,24 +7,7 @@ class Node:
     def __str__(self):
         return str(self.value)
 
-def nth_from_last_internal(node, n, result):
-    if not node:
-        return 0
-    pos = nth_from_last_internal(node.child, n, result) + 1
-    if pos == n:
-        result.append(node.value)
-    return pos
-
-
-def nth_from_last(data, n):
-    if not data:
-        return None
-    result = list()
-    nth_from_last_internal(data, n, result)
-    return result
-
-
-def nth_from_last2(head, n):
+def nth_from_last(head, n):
     left = head
     right = head
     for i in range(n):
@@ -53,19 +36,16 @@ if __name__ == "__main__":
     print(linked_list_to_string(head))
     # 7 -> 6 -> 5 -> 4 -> 3 -> 2 -> 1 -> (None)
     # 6 -> 5 -> 4 -> 3 -> 2 -> 1 -> (None)
-
-
-
     current2 = Node(4)
     for i in range(3, 0, -1):
         current2 = Node(i, current2)
     head2 = current2
     # head2 = 1 -> 2 -> 3 -> 4 -> (None)
     print("#####")
-    print(nth_from_last2(head, 1))
+    print(nth_from_last(head, 1))
     # nth_from_last(head, 1) should return 1.
     print("#####")
-    print(nth_from_last2(head, 5))
+    print(nth_from_last(head, 5))
     # nth_from_last(head, 5) should return 5.
 
     print("#####")

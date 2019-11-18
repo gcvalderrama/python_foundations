@@ -1,4 +1,5 @@
 #  https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheBubbleSort.html
+#  https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
 from .fixtures import basic_array
 import unittest
 
