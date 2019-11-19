@@ -13,8 +13,10 @@ def is_rotation(vector_a, vector_b):
 
     index = vector_b.index(pivot)
 
-    for i in range(len(vector_a)):
-        if vector_a[i] != vector_b[(index + i) % len(vector_a)]:
+    size = len(vector_a)
+
+    for i in range(size):
+        if vector_a[i] != vector_b[(index + i) % size]:
             return False
     return True
 

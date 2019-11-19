@@ -7,8 +7,7 @@ def click_internal(field, num_rows, num_cols, given_i, given_j):
 
     for i in range(given_i - 1, given_i + 2):
         for j in range(given_j - 1, given_j + 2):
-            if 0 <= i < num_rows and 0 <= j < num_cols \
-                    and field[i][j] == 0:
+            if 0 <= i < num_rows and 0 <= j < num_cols and field[i][j] == 0:
                 click_internal(field, num_rows, num_cols, i, j)
 
 
@@ -44,6 +43,8 @@ def print_board(board):
 
 
 if __name__ == "__main__":
+
+    print( 5 % 4)
 
     field = [[0, 0, 0, 0, 0], [0, 1, 1, 1, 0], [0, 1, -1, 1, 0]]
     print_board(click(field, 3, 5, 0, 0))

@@ -1,3 +1,4 @@
+import unittest
 from collections import defaultdict
 
 
@@ -41,23 +42,29 @@ def get_common(vector_a, vector_b):
     return result
 
 
+
+
+class Test(unittest.TestCase):
+
+    def test_case_a(self):
+        A = [1, 3, 4, 6, 7, 9]
+        B = [1, 2, 4, 5, 9, 10]
+        result = get_common2(A, B)
+        self.assertEqual([1, 4, 9], result)
+
+    def test_case_b(self):
+        list_b1 = [1, 2, 9, 10, 11, 12]
+        list_b2 = [0, 1, 2, 3, 4, 5, 8, 9, 10, 12, 14, 15]
+        result = get_common2(list_b1, list_b2)
+        self.assertEqual([1, 2, 9, 10, 12], result)
+
+    def test_case_c(self):
+        list_c1 = [0, 1, 2, 3, 4, 5]
+        list_c2 = [6, 7, 8, 9, 10, 11]
+        result = get_common2(list_c1, list_c2)
+        self.assertEqual([], result)
+
+
 if __name__ == "__main__":
-    A = [1, 3, 4, 6, 7, 9]
-    B = [1, 2, 4, 5, 9, 10]
-    print(get_common(A,B))
+    unittest.main()
 
-    # NOTE: The following input values will be used for testing your solution.
-    list_a1 = [1, 3, 4, 6, 7, 9]
-    list_a2 = [1, 2, 4, 5, 9, 10]
-    print(get_common(list_a1, list_a2))
-    # common_elements(list_a1, list_a2) should return [1, 4, 9] (a list).
-
-    list_b1 = [1, 2, 9, 10, 11, 12]
-    list_b2 = [0, 1, 2, 3, 4, 5, 8, 9, 10, 12, 14, 15]
-    print(get_common(list_b1 , list_b2))
-    # common_elements(list_b1, list_b2) should return [1, 2, 9, 10, 12] (a list).
-
-    list_c1 = [0, 1, 2, 3, 4, 5]
-    list_c2 = [6, 7, 8, 9, 10, 11]
-    print(get_common(list_c1, list_c2))
-    # common_elements(list_b1, list_b2) should return [] (an empty list).

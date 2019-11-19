@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arrays/simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/last_common_ancestor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/2numbers20.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersices/012numbers20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/MostFrequentlyOccurringItemArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersices/02MostFrequentlyOccurringItemArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamicprogramming/dynamic_programming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/012numbers20.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/012numbers20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/02MostFrequentlyOccurringItemArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/MostFrequentlyOccurringItemArrayTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/BinarySearchTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/CommonElementsTwoArrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/CommonElementsTwoArrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/NonRepeating.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/NonRepeating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/OneWayStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/OneWayStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/isRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/isRotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/mine_sweeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/mine_sweeper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/mine_sweeper_click.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/mine_sweeper_click.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/nth_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/nth_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersices/rotate_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/rotate_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/bublesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/bublesort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,12 +32,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>xrange</find>
-      <find>name</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,6 +45,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\gcvalderrama\python_foundations\dynamicprogramming" />
+      <recent name="F:\gcvalderrama\python_foundations\udemy" />
+      <recent name="F:\gcvalderrama\python_foundations\udemy00" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,91 +64,105 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 02MostFrequentlyOccurringItemArray.py">
-    <configuration name="Unittests for MostFrequentlyOccurringItemArray.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dynamic_programming">
+    <configuration name="dynamic_programming" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamicprogramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamicprogramming/dynamic_programming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nth_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udemy/nth_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for last_common_ancestor.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udemy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;MostFrequentlyOccurringItemArray.Test.test_case_a&quot;" />
+      <option name="_new_target" value="&quot;last_common_ancestor.Test.test_case_a&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for MostFrequentlyOccurringItemArray.Test.test_case_b" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for simple.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;MostFrequentlyOccurringItemArray.Test.test_case_b&quot;" />
+      <option name="_new_target" value="&quot;simple.Test.test_case_a&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for MostFrequentlyOccurringItemArray.Test.test_case_c" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for simple.Test.test_case_max" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;MostFrequentlyOccurringItemArray.Test.test_case_c&quot;" />
+      <option name="_new_target" value="&quot;simple.Test.test_case_max&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for MostFrequentlyOccurringItemArray.Test.test_case_d" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;MostFrequentlyOccurringItemArray.Test.test_case_d&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in 02MostFrequentlyOccurringItemArray.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exersices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/exersices/02MostFrequentlyOccurringItemArray.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_a" />
-      <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_b" />
-      <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_c" />
-      <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_d" />
-      <item itemvalue="Python tests.Unittests in 02MostFrequentlyOccurringItemArray.py" />
+      <item itemvalue="Python.nth_element" />
+      <item itemvalue="Python.dynamic_programming" />
+      <item itemvalue="Python tests.Unittests for last_common_ancestor.Test.test_case_a" />
+      <item itemvalue="Python tests.Unittests for simple.Test.test_case_a" />
+      <item itemvalue="Python tests.Unittests for simple.Test.test_case_max" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in 02MostFrequentlyOccurringItemArray.py" />
-        <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_d" />
-        <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_c" />
-        <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_b" />
-        <item itemvalue="Python tests.Unittests for MostFrequentlyOccurringItemArray.Test.test_case_a" />
+        <item itemvalue="Python.dynamic_programming" />
+        <item itemvalue="Python tests.Unittests for simple.Test.test_case_max" />
+        <item itemvalue="Python tests.Unittests for simple.Test.test_case_a" />
+        <item itemvalue="Python tests.Unittests for last_common_ancestor.Test.test_case_a" />
+        <item itemvalue="Python.nth_element" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +201,22 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exersices/NonRepeating.py</url>
+          <url>file://$PROJECT_DIR$/udemy/NonRepeating.py</url>
           <line>3</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exersices/rotate_matrix.py</url>
+          <url>file://$PROJECT_DIR$/udemy/rotate_matrix.py</url>
           <line>46</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exersices/nth_element.py</url>
+          <url>file://$PROJECT_DIR$/udemy/nth_element.py</url>
           <line>67</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exersices/BinarySearchTree.py</url>
+          <url>file://$PROJECT_DIR$/udemy/BinarySearchTree.py</url>
           <line>82</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
@@ -367,6 +395,16 @@
           <line>61</line>
           <option name="timeStamp" value="145" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/udemy/MostFrequentlyOccurringItemArrayTest.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/udemy/rotate_matrix.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -375,71 +413,5 @@
         <watch expression="w[:i]" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>idx_tmp==0</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number == 5</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number == 4</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number ==4</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>root.previous_node is None</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>idx==7</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>node.position == 7</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>number == 15</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pos_target == 15</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>graph[&quot;hit&quot;]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s[idx: len(s)]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s[idx: len(s)-idx]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
 </project>

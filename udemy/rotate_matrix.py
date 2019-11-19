@@ -24,7 +24,8 @@ def in_rotate(given_array, n):
                 tmp[k] = given_array[current_i][current_j]
                 (current_i, current_j) = rotate_sub(current_i, current_j, n)
             for k in range(4):
-                given_array[current_i][current_j] = tmp[(k - 1) % 4]
+                index = (k - 1) % 4
+                given_array[current_i][current_j] = tmp[index]
                 (current_i, current_j) = rotate_sub(current_i, current_j, n)
     return given_array
 
