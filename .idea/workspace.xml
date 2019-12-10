@@ -2,22 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrays/simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/last_common_ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/ClimbStairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/decodingproblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/get_last_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/kdistinctsubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/phi_montecarlo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/querystringprefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/treesamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/uniform_probability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/maxConcurrentEvents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/sortedarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/sortedarrayintersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashes/anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashes/anonymousletter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heaps/klongeststrings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamic_programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamicprogramming/dynamic_programming.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/012numbers20.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/012numbers20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/02MostFrequentlyOccurringItemArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/MostFrequentlyOccurringItemArrayTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/BinarySearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/BinarySearchTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/CommonElementsTwoArrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/CommonElementsTwoArrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/NonRepeating.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/NonRepeating.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/OneWayStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/OneWayStrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/isRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/isRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/mine_sweeper.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/mine_sweeper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/mine_sweeper_click.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/mine_sweeper_click.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/nth_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/nth_element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exersices/rotate_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/rotate_matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorting/bublesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/bublesort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
   </component>
   <component name="ProjectId" id="1TdTyJv5ICIITjJYCs0yUQ2QQde" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/AWS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -64,64 +63,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dynamic_programming">
-    <configuration name="dynamic_programming" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamicprogramming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamicprogramming/dynamic_programming.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nth_element" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udemy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/udemy/nth_element.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for last_common_ancestor.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for decodingproblem.Test.test_case_a">
+    <configuration name="Unittests for decodingproblem.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCodingProblem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;last_common_ancestor.Test.test_case_a&quot;" />
+      <option name="_new_target" value="&quot;decodingproblem.Test.test_case_a&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for simple.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for get_last_elements.Test.test_case_a" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCodingProblem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;get_last_elements.Test.test_case_a&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for maxConcurrentEvents.Test.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +102,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;simple.Test.test_case_a&quot;" />
+      <option name="_new_target" value="&quot;maxConcurrentEvents.Test.test_case&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for simple.Test.test_case_max" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for sortedarrayintersection.Test.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,24 +116,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;simple.Test.test_case_max&quot;" />
+      <option name="_new_target" value="&quot;sortedarrayintersection.Test.test_case&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in sortedarrayintersection.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/arrays/sortedarrayintersection.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.nth_element" />
-      <item itemvalue="Python.dynamic_programming" />
-      <item itemvalue="Python tests.Unittests for last_common_ancestor.Test.test_case_a" />
-      <item itemvalue="Python tests.Unittests for simple.Test.test_case_a" />
-      <item itemvalue="Python tests.Unittests for simple.Test.test_case_max" />
+      <item itemvalue="Python tests.Unittests for sortedarrayintersection.Test.test_case" />
+      <item itemvalue="Python tests.Unittests in sortedarrayintersection.py" />
+      <item itemvalue="Python tests.Unittests for maxConcurrentEvents.Test.test_case" />
+      <item itemvalue="Python tests.Unittests for get_last_elements.Test.test_case_a" />
+      <item itemvalue="Python tests.Unittests for decodingproblem.Test.test_case_a" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dynamic_programming" />
-        <item itemvalue="Python tests.Unittests for simple.Test.test_case_max" />
-        <item itemvalue="Python tests.Unittests for simple.Test.test_case_a" />
-        <item itemvalue="Python tests.Unittests for last_common_ancestor.Test.test_case_a" />
-        <item itemvalue="Python.nth_element" />
+        <item itemvalue="Python tests.Unittests for decodingproblem.Test.test_case_a" />
+        <item itemvalue="Python tests.Unittests for get_last_elements.Test.test_case_a" />
+        <item itemvalue="Python tests.Unittests for maxConcurrentEvents.Test.test_case" />
+        <item itemvalue="Python tests.Unittests in sortedarrayintersection.py" />
+        <item itemvalue="Python tests.Unittests for sortedarrayintersection.Test.test_case" />
       </list>
     </recent_temporary>
   </component>
@@ -404,6 +389,71 @@
           <url>file://$PROJECT_DIR$/udemy/rotate_matrix.py</url>
           <line>42</line>
           <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/uniform_probability.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/kdistinctsubstring.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/kdistinctsubstring.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/ClimbStairs.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/ClimbStairs.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/ClimbStairs.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/ClimbStairs.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/heaps/klongeststrings.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arrays/sortedarray.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arrays/maxConcurrentEvents.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/get_last_elements.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/get_last_elements.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DailyCodingProblem/decodingproblem.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="163" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
