@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/ClimbStairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/decodingproblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/get_last_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/kdistinctsubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/phi_montecarlo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/querystringprefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/treesamples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/uniform_probability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/maxConcurrentEvents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/sortedarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/sortedarrayintersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashes/anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashes/anonymousletter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heaps/klongeststrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/undirectedgraphCycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/univaltrees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
