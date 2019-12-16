@@ -2,8 +2,26 @@
 import unittest
 
 
+def is_cycle(graph, key, state, parent):
+    state[key] = True
+    if key not in graph:
+        return False
+    for i in graph[key]:
+        if i not in state:
+            if is_cycle(graph, i, state, key):
+                return True
+        elif parent != i:
+            return True
+    return False
+
+
 def find_cycle(graph):
-    pass
+    state = dict()
+    for key in graph.keys():
+        if key not in state:
+            if is_cycle(graph, key, state, -1):
+                return True
+    return False
 
 
 class Test(unittest.TestCase):
@@ -13,7 +31,8 @@ class Test(unittest.TestCase):
             'b': {'b2': {}},
             'c': {}
         }
-        find_cycle(graph)
+        result = find_cycle(graph)
+        self.assertFalse(result)
 
     def test_case_true(self):
         graph = {
@@ -22,6 +41,9 @@ class Test(unittest.TestCase):
             'c': {}
         }
         graph['c'] = graph
+        result = find_cycle(graph)
+        self.assertTrue(result)
+
 
 if __name__ == "__main__":
-  unittest.main()
+    unittest.main()
