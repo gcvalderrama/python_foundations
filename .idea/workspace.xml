@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/Courses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/KLasrgest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/LinkedListInterception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/MinimumRooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/MoveZeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/PaintingHouses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/LongestCommonSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/setnumberssum16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/towerhopperproblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/sumNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyCodingProblem/undirectedgraphCycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyCodingProblem/undirectedgraphCycle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for MoveZeros.Test.test_case_a">
+  <component name="RunManager" selected="Python tests.Unittests for sumNumbers.Test.test_case_b">
     <configuration name="Unittests for KLasrgest.Test.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,34 +63,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;KLasrgest.Test.test_case&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for KLasrgest.Test.test_empty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCodingProblem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;KLasrgest.Test.test_empty&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for LinkedListInterception.Test.test_case_b" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCodingProblem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;LinkedListInterception.Test.test_case_b&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -130,20 +94,48 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for sumNumbers.Test.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;sumNumbers.Test.test_case&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for sumNumbers.Test.test_case_b" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;sumNumbers.Test.test_case_b&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for LinkedListInterception.Test.test_case_b" />
-      <item itemvalue="Python tests.Unittests for KLasrgest.Test.test_empty" />
       <item itemvalue="Python tests.Unittests for KLasrgest.Test.test_case" />
       <item itemvalue="Python tests.Unittests for MoveZeros.Test.test_case" />
       <item itemvalue="Python tests.Unittests for MoveZeros.Test.test_case_a" />
+      <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case" />
+      <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case_b" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case_b" />
+        <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case" />
         <item itemvalue="Python tests.Unittests for MoveZeros.Test.test_case_a" />
         <item itemvalue="Python tests.Unittests for MoveZeros.Test.test_case" />
         <item itemvalue="Python tests.Unittests for KLasrgest.Test.test_case" />
-        <item itemvalue="Python tests.Unittests for KLasrgest.Test.test_empty" />
-        <item itemvalue="Python tests.Unittests for LinkedListInterception.Test.test_case_b" />
       </list>
     </recent_temporary>
   </component>
@@ -475,6 +467,11 @@
           <url>file://$PROJECT_DIR$/DailyCodingProblem/LinkedListInterception.py</url>
           <line>55</line>
           <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/book/sumNumbers.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="172" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

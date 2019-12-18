@@ -1,0 +1,249 @@
+https://www.glassdoor.com/Interview/Booking-com-Amsterdam-Interview-Questions-EI_IE256653.0,11_IL.12,21_IM1112_IP20.htm
+https://www.careercup.com/page?pid=bookingcom-interview-questions&sort=votes
+https://github.com/jwasham/coding-interview-university
+
+
+Given a integer , return corresponding ASCII char representation without using language building in feature.
+
+ex. input interger 1234, return "1234" in string or characters
+7 Answers
+What a fibonacci function which return N th position number both in recursive and loop, also give the explanation on both implementation on their time efficiency.
+6 Answers
+What is HashMap ? Give the comparison on HashMap and TreeMap, that is the efficiency on their intersection and traverse.
+
+
+
+1. Balanced parenthesis
+Create function that will determine are the parenthesis balanced in a given string
+boolean isBalanced(string)
+a(bcd)d => true
+(kjds(hfkj)sdhf => false
+(sfdsf)(fsfsf => false
+{[]}() => true
+{[}] => false
+2.
+Sort the content of the a file based on second field, e.g.
+Input file:
+Jervie,12,M
+Jaimy,11,F
+Tony,23,M
+Janey,11,F
+Output file:
+Jaimy,11,F
+Janey,11,F
+Jervie,12,M
+Tony,23,M
+don’t worry about open file, close file etc
+1Gb for memory but 4Gb for file
+
+
+
+Find Nth nearest neighbours in a graph.
+
+
+
+
+Call a function F in a loop. F returns a string of 140 chars. Write to the output 1 when F returns a string with the same letters (basically a permutation) of a string previously returned. (the question was not this well formed)
+
+Build an hashmap where for every letter you count how many times it appears in the string, and put it in a set.
+For every string check if the set contains the built hash.
+OR sort the string, and put it in a set
+
+
+Given a map user-> list of locations, write a function that takes a location and suggest what the next location an user would go
+
+
+
+After the initial contact by recruiter I got phone interview with two programming tasks. Tasks were not so easy as expected. First one was to implement random function as it's implemented in Java. The second one was to present some sum of cash with the fixed bills of 1$, 2$, 5$, 10$ and 50$. For both I had about 20 minutes which and then I had time to ask questions…
+
+
+Using CanMove(x1, y1, x2, y2) and IsEnd(x, y) functions, write a function to exit a maze.
+
+
+
+We have two words. We need to determine if the second word contains a substring with an anagram of the first word
+
+
+
+Swap two digits from an integer, the result should be the maximum. For example 3580 -> 8350
+
+
+What are important Business and Technical metrics in designing service oriented and microservices architecture?
+
+
+
+During the in-person interview, I was asked to parse a JSON stream, character by character, looking only for specific pieces of data.
+
+HackerRank: Given a list of intervals, e.g. [1,4], [2,5], [6,7], merge overlapping intervals, e.g. [1,5],[6,7].
+
+
+HackerRank: Sort hotels by average score. Each line of input had the hotel ID and a review score.
+
+E.g.
+
+1000 4
+1000 7
+2000 10
+2000 8
+
+
+
+HackerRank: Given a string of lowercase unique characters (e.g. "ab", "lmne") sort the string alphabetically and then find all possible combinations, ignoring ordering. e.g. "ab" -> "a", "b", "ab"
+
+
+HackerRank: Given a string of lowercase unique characters (e.g. "ab", "lmne") sort the string alphabetically and then find all possible combinations, ignoring ordering. e.g. "ab" -> "a", "b", "ab"
+1 Answer
+SSH into a server. Restore a backup of a website. The location of the backup was given, but no further details.
+Answer Question
+SSH into a server. Enable Google DNS as a secondary DNS server.
+2 Answers
+SSH into a server. A colleague's script isn't working. Fix it. (No further details were given...)
+Answer Question
+SSH into a server. A process is running and is printing a message somewhere. Find out what the message is.
+
+Given multiple entries of four points A, B, C and D identify and count how many are squares, rectangles, or none.
+
+Given 4 lengths of the edges of a polygon, determine if it is a Square, a Rectangle or a Polygon.
+
+You are given a list of call logs with timestamps as integers, showing the call start and end time for calls coming into the booking.com call center. Find the number of overlaps in calls that suggests to add more call center agents.
+
+
+Given a list of words and a bunch of hotel reviews, rank the hotel reviews by the number of times the words appear in the review. Double-counting is ok.
+
+
+Swap two digits from an integer, the result should be the maximum. For example 1682 -> 8126
+
+
+Call a function F in a loop. F returns a string of 140 chars. Write to the output 1 when F returns a string with the same letters (basically a permutation) of a string previously returned. (the question was not this well formed)
+6 Answers
+Given a map user-> list of locations, write a function that takes a location and suggest what the next location an user would go
+
+
+Union of n arrays with x elements. Output common members contained in at least 2 arrays. Explain the complexity of the algorithm used.
+
+We have a digested server log with username, visited page and timestamp. Create a processing algorithm that will output the most visited page/areas in such a way that will match partial path as well.
+i.e.
+{
+    { user: "user1", page="/home" },
+    { user: "user1", page="/home/account" },
+    { user: "user1", page="/home/account/profile" },
+    { user: "user1", page="/home/account/login" },
+    { user: "user2", page="/about" },
+    { user: "user2", page="/about/contact" },
+    { user: "user2", page="/home" }
+}
+
+the output
+user1
+     - home/account
+     - home
+user2
+     - /about
+
+PS
+I'm rephrasing because I cannot recall exactly the question
+
+Check the string for the correct using of parenthesis. They can be (), [], {}.
+
+20 boxes - 500 GB log files on each - no processing box on server file, aggregate data on one box and parse for phone numbers - bookings. Efficiently.
+
+Find how many moves it takes from point A in a maze to point B.
+
+Finding the knights tour on a chess board ?
+
+
+How will you implement auto-complete ?
+
+Design a system to store and send email campaigns to a large user base (around 200 000 000 users)
+
+
+1- (Coding test at hackerrank) Specify types of the polygons (square, rectangle, polygon). They didn't provide the number of lines, and negative numbers should be considered as polygons, and square shouldn't be considered as rectangle.
+
+
+
+2- (Coding test at hackerrank) You have a list of words and a list of hotel reviews, try to sort the hotels based on the number of words from the first list that is exist in the each review. if an hotel has maximum number of 4 words then it should be the highest in the sorting..
+
+
+
+3- (Coding test at hackerrank) You have time-stamps (mentioned as integers), which represents phone call begin and end to booking.com call center. find the number of overlaps in calls that suggests to add more call center agents.
+
+
+
+- (Phone call coding interview). You have two lists, the first contain larger words, write a method that finds if the anagram from the second list's word in the first list's word.
+
+
+
+- (Phone call coding interview) calculate the complexity of the previous function. They gave me hints and later they considered my answer as weak.
+
+
+
+Stack implementation (thread safe)
+
+Given an array of words as NSStrings you should return another array of NSStrings, each containing words that are mutual anagrams
+
+
+
+We have the interface for a class Person which has settable firstname, middlename and lastname properties.
+It also has a fullname read-only property, which should return the person's name
+
+
+Identify whether four sides can form a square, a rectangle or neither.
+
+
+
+Given an array of NSNumbers output a delta encoding for the sequence
+
+
+
+0
+▼
+func result(sequence: [Int]) -&gt; [Int] {
+
+    var newSequence = [sequence[0]]
+    let tempSequence = sequence[1.. 127 || abs(diff) &lt; -127 {
+            newSequence.append(-128)
+        }
+        newSequence.append(diff)
+        currentNumber = number
+    }
+
+    return newSequence
+}
+
+let sequence = [25626, 25757, 24367, 24267, 16, 100, 2, 7277]
+
+print(result(sequence: sequence))
+
+
+Count number of islands in a matrix.
+
+
+return the longest sequence in array (a,a+1,a+2,...)
+what is the best order for it
+
+
+Q: Dynamic programming question about coin change, expected result was minimum number of coins with the coin types
+
+
+1. Identify whether there exists a pair of numbers in an array such that their sum is equal to N
+
+
+Given the following list of objects {user, loginTime, logoutTime}. What is the maximum number of concurrent users logged in at the same time?
+
+Input:
+[
+  {user: A, login: 1, logout: 3},
+  {user: B, login: 3, logout: 4},
+  {user: C, login: 1, logout: 2},
+  {user: D, login: 123123123, logout: 987987987},
+  {user: E, login: 1, logout: 3}
+]
+
+Output:
+3
+
+
+1000000001
+1000000002
+
+
