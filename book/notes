@@ -24,11 +24,6 @@ Find Nth nearest neighbours in a graph.
 
 
 
-
-Call a function F in a loop. F returns a string of 140 chars.
- Write to the output 1 when F returns a string with the same letters (basically a permutation)
- of a string previously returned. (the question was not this well formed)
-
 Build an hashmap where for every letter you count how many times it appears in the string, and put it in a set.
 For every string check if the set contains the built hash.
 OR sort the string, and put it in a set
