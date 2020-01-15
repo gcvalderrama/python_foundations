@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25f18783-2964-4ddd-9d56-7a3f5a21d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/aritmetictree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/reverseinorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/sumamaximumarray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DailyCodingProblem/reverseinorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyCodingProblem/reverseinorder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for reverseinorder.Test.test">
+  <component name="RunManager" selected="Python tests.Unittests in reverseinorder.py">
     <configuration name="Unittests for aritmetictree.Test.test_initial" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,31 +79,17 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for sumNumbers.Test.test_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for reverseinorder.Test.test_in_order" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python_foundations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCodingProblem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;sumNumbers.Test.test_case&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for sumNumbers.Test.test_case_b" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python_foundations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;sumNumbers.Test.test_case_b&quot;" />
+      <option name="_new_target" value="&quot;reverseinorder.Test.test_in_order&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -123,20 +107,34 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in reverseinorder.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_foundations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCodingProblem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/DailyCodingProblem/reverseinorder.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case" />
-      <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case_b" />
       <item itemvalue="Python tests.Unittests for aritmetictree.Test.test_initial" />
       <item itemvalue="Python tests.Unittests for sumamaximumarray.Test.test" />
       <item itemvalue="Python tests.Unittests for reverseinorder.Test.test" />
+      <item itemvalue="Python tests.Unittests for reverseinorder.Test.test_in_order" />
+      <item itemvalue="Python tests.Unittests in reverseinorder.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in reverseinorder.py" />
+        <item itemvalue="Python tests.Unittests for reverseinorder.Test.test_in_order" />
         <item itemvalue="Python tests.Unittests for reverseinorder.Test.test" />
         <item itemvalue="Python tests.Unittests for sumamaximumarray.Test.test" />
         <item itemvalue="Python tests.Unittests for aritmetictree.Test.test_initial" />
-        <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case_b" />
-        <item itemvalue="Python tests.Unittests for sumNumbers.Test.test_case" />
       </list>
     </recent_temporary>
   </component>
@@ -481,13 +479,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/DailyCodingProblem/reverseinorder.py</url>
-          <line>49</line>
+          <line>81</line>
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/DailyCodingProblem/reverseinorder.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="177" />
+          <line>85</line>
+          <option name="timeStamp" value="178" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
